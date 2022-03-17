@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Python-fcc624?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Coffeescript-0078D4?style=flat-square&logo=coffeescript&logoColor=white)](https://nodejs.org/)
 <img src="https://avatars.githubusercontent.com/mxdies" width="120" height="120" align="left">
 <center>
 Connect with me :
@@ -35,7 +35,7 @@ class AboutMe
     this.hobby = ["Coding" , "Music", "Editing" , "Writing"];
   }
     codingSkill(me){
-    let skill = ["Javascript","Python","NodeJS","Typescript"];
+    let skill = ["Javascript","Python","NodeJS","Coffeescript"];
     }
 }
 
