@@ -3,9 +3,9 @@
 <p align="center"><b>I'm Working On :<b></p>
 
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Python-fcc624?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Python-0078D4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Coffeescript-0078D4?style=flat-square&logo=coffeescript&logoColor=white)](https://coffeescript.org/)
+[![](https://img.shields.io/badge/Coffeescript-fcc624?style=flat-square&logo=coffeescript&logoColor=white)](https://coffeescript.org/)
 <img src="https://avatars.githubusercontent.com/mxdies" width="120" height="120" align="left">
 <center>
 Connect with me :
