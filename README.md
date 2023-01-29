@@ -4,11 +4,10 @@
 
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Python-0078D4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Coffeescript-fcc624?style=flat-square&logo=coffeescript&logoColor=white)](https://coffeescript.org/)
+[![](https://img.shields.io/badge/Javascript-fcc624?style=flat-square&logo=javascript&logoColor=white)](https://javascript.org/)
 <img src="https://avatars.githubusercontent.com/mxdies" width="120" height="120" align="left">
 <center>
-Connect with me :
+Connect with me
 
 <a href="https://instagram.com/manxtodd"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
  &nbsp;&nbsp; 
