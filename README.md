@@ -9,9 +9,9 @@
 <center>
 Connect with me
 
-<a href="https://instagram.com/manxtodd"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
+<a href="https://instagram.com/mdmsyy"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
  &nbsp;&nbsp; 
-<a href="https://youtube.com/c/manxtodd"><img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="alt text" width="30" height="30"></a>
+<a href="https://youtube.com/c/sasthaid"><img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="alt text" width="30" height="30"></a>
 
 
 
@@ -23,24 +23,6 @@ ____
 <p>
 
 > I'm Just A Student Engaged In The World Of Coding.
-
-```javascript
-class AboutMe
-{
-    constructor(me) { 
-    this.firstname = "Muhammad";
-    this.lastname = "##censored##";
-    this.age ="##censored##";
-    this.hobby = ["Coding" , "Music", "Editing" , "Writing"];
-  }
-    codingSkill(me){
-    let skill = ["Javascript","Python","NodeJS","Coffeescript"];
-    }
-}
-
-throw "Sorry If My Data Is Unknown:u";
-
-```
 </details>
 
 ____
