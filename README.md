@@ -5,14 +5,13 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Python-0078D4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Javascript-fcc624?style=flat-square&logo=javascript&logoColor=white)](https://javascript.org/)
+[![](https://img.shields.io/badge/php-19a7f1?style=flat-square&logo=php&logoColor=white)](https://php.org/)
 <img src="https://avatars.githubusercontent.com/mxdies" width="120" height="120" align="left">
 <center>
 Connect with me
 
-<a href="https://instagram.com/mdmsyy"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
- &nbsp;&nbsp; 
-<a href="https://youtube.com/c/sasthaid"><img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="alt text" width="30" height="30"></a>
-
+<a href="https://instagram.com/mannpiee"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
+ &nbsp;&nbsp;
 
 
 
